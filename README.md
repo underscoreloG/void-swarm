@@ -4,9 +4,13 @@ A space bullet-heaven roguelite in a single HTML file. Survive 10 minutes agains
 
 No build step, no dependencies, no assets: open `index.html` in a browser and play.
 
+**[Play in your browser](https://underscorelog.github.io/void-swarm/)**
+
 ![Mid run in Deep Space](screenshots/02-deep-space.png)
 
 ## Play
+
+Play online at **https://underscorelog.github.io/void-swarm/**, or run it locally:
 
 ```bash
 git clone https://github.com/underscoreloG/void-swarm.git
